@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate in Computer Science at the **Hong Kong University of Science and Technology (HKUST)**, where I am a member of the [HKUST NLP Group](https://hkust-nlp.github.io/), led by Prof. Junxian He. I was also advised by Prof. Junxian He during my undergraduate studies at Shanghai Jiao Tong University.
+I am a first-year PhD candidate in Computer Science at the **Hong Kong University of Science and Technology (HKUST)**, where I am a member of the HKUST NLP Group, led by Prof. Junxian He. I was also advised by Prof. Junxian He during my undergraduate studies at Shanghai Jiao Tong University.
 
 My research focuses on **natural language processing (NLP)** and **machine learning (ML)**. My research interests include:
 
@@ -29,14 +29,14 @@ My research focuses on **natural language processing (NLP)** and **machine learn
 
 ## Publications
 
-First-author works are marked with an asterisk. The full list is also available on the [publications page](/publications/).
+Papers on which I am the first author are marked *(First author)*; the others are *(Co-author)*. The same list also appears on the [publications page](/publications/).
 
-1. **\*SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *Arxiv*, 2025. (First author)
-2. **\*On the Perception Bottleneck of VLMs for Chart Understanding** — Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *Arxiv*, 2025. (First author)
-3. **\*On the Universal Truthfulness Hyperplane Inside LLMs** — Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP*, 2024. (First author)
-4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** — Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML*, 2024. (Co-author)
-5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NeurIPS*, 2023. (Co-author)
-6. **Composing Parameter-Efficient Modules with Arithmetic Operations** — Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. *NeurIPS*, 2023. (Co-author)
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *Arxiv*, 2025. *(First author)*
+2. **On the Perception Bottleneck of VLMs for Chart Understanding** — Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *Arxiv*, 2025. *(First author)*
+3. **On the Universal Truthfulness Hyperplane Inside LLMs** — Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP*, 2024. *(First author)*
+4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** — Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML*, 2024. *(Co-author)*
+5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NeurIPS*, 2023. *(Co-author)*
+6. **Composing Parameter-Efficient Modules with Arithmetic Operations** — Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. *NeurIPS*, 2023. *(Co-author)*
 
 ## Contact
 
